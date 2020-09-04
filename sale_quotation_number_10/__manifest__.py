@@ -75,7 +75,7 @@
     Sale Quotation 4 Confirmed = Number for Sale Order SO003 from Sale Quotation
     SQ004
     """,
-    'author': 'Ananthu Krishna',
+    'author': 'CodersFort',
     'website': 'http://www.codersfort.com',
     'depends': ['sale'],
     'data': [
