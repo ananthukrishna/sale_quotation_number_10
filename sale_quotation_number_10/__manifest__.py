@@ -78,6 +78,7 @@
     'author': 'CodersFort',
     'website': 'http://www.codersfort.com',
     'depends': ['sale'],
+    'images': ['images/sale_quotation_number_10.png'],
     'data': [
         'data/data.xml',
     ],
